@@ -2,7 +2,7 @@
 
 ## Description
 
-The **vim-rng** repository provides a syntax file for RELAX NG, a schema language for XML.
+The **vim-rng** repository provides a syntax file for RELAX NG, a schema language for XML. See also my [vim-snippets](https://github.com/jhradilek/vim-snippets) repository for snippets for this language.
 
 ## Installation
 
