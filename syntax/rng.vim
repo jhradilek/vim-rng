@@ -3,7 +3,7 @@
 " Maintainer:  Jaromir Hradilek <jhradilek@gmail.com>
 " URL:         https://github.com/jhradilek/vim-rng
 " Last Change: 25 March 2013
-" Description: A syntax file for RELAX NG, a schema language for XML
+" Description: A syntax file for the RELAX NG XML schema language.
 
 if exists('b:current_syntax')
   finish
