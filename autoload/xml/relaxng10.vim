@@ -120,4 +120,17 @@ let g:xmldata_relaxng10 = {
 \ ['attribute', 'choice', 'data', 'element', 'empty', 'externalRef', 'grammar', 'group', 'interleave', 'list', 'mixed', 'notAllowed', 'oneOrMore', 'optional', 'parentRef', 'ref', 'text', 'value', 'zeroOrMore'],
 \ {'combine': ['choice', 'interleave'], 'datatypeLibrary': [], 'ns': []}
 \ ],
+\ 'vimxmltaginfo': {
+\ 'anyName': ['/>', ''],
+\ 'attribute': ['/>', ''],
+\ 'data': ['/>', ''],
+\ 'empty': ['/>', ''],
+\ 'externalRef': ['/>', ''],
+\ 'include': ['/>', ''],
+\ 'notAllowed': ['/>', ''],
+\ 'nsName': ['/>', ''],
+\ 'parentRef': ['/>', ''],
+\ 'ref': ['/>', ''],
+\ 'text': ['/>', ''],
+\ },
 \ }
